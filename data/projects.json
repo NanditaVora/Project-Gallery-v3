@@ -1,7 +1,7 @@
 [
   {
     "type": "Course End Project",
-    "image_url": "../assets/images/da/da-image.png",
+    "image_url": "assets/images/da/da-image.png",
     "header":"DA using Excel",
     "track": "Data Analytics",
     "project_title": "Use Social Media Trends data to tell a story",
